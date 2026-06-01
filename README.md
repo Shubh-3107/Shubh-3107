@@ -1,5 +1,8 @@
-## Hi there 👋
+##Hi, I'm Shubh 👋
 
+Computer Science (AI/ML) student passionate about machine learning, programming, and building things that solve real problems.
+
+Currently exploring Python, data science, and AI while developing projects and strengthening my software development skills.
 
 ## 💻 Tech Stack
 
